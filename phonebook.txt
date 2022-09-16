@@ -1,0 +1,6 @@
+John Doe,22345 44556,john@mail.com
+Βάσω Παπαδημητρίου,22340 66884,mail@somemail.com
+Γιώργος Γεωργίου,22830 34345,george@gmail.com
+Ζωή Λούλη,22330 44556,zoiloul@hotmail.com
+Κώστας Παπαδημητρίου,22810 34546,kostas@yahoo.com
+Πέτρος Πετρίδης,22810 34543,petros@yahoo.com
